@@ -1,0 +1,35 @@
+.About-container{
+    
+    position: relative;
+}
+.About-info{
+ position: absolute;
+ top: 90px;
+ left: 15%;
+ right: 40%;
+}
+.About-thamb{
+    position: absolute;
+    top: 40px;
+    left: 65%;
+}
+.About-img{
+    width: 300px;
+    border: 2px solid #fca5b7;
+}
+@media screen and (max-width: 860px) {
+    .About-thamb{
+        position: absolute;
+       top: 80px;
+        left: 10%;
+    }
+    .About-info{
+        position: absolute;
+        top: 380px;
+        left: 15%;
+        right: 20%;
+       }
+       .About-img{
+        width: 230px;
+    }
+}

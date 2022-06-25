@@ -1,0 +1,55 @@
+ [
+    {
+        "id": 1,
+         "img": "image2",
+          "heading": "PARTS", 
+          "details": {
+            "one": "Full-stack project",
+             "two":"Implement user login, Admin panel, Dashboard etc.",
+             "three": "Responsive homepage.",
+             "Technologies": "Tailwind, DaisyUi , ReactHookForm, React js, Firebase for authentication and hosting, MongoDB, render server hosting site"
+           },
+         " descripting": "This is the Computer Parts Manufacturer Website.This is a Full-stack project", 
+          "href": "https://parts-manufacturer.web.app/"
+        },
+    {
+        "id": 2, 
+        "img": "image1",
+        "heading": "STAR ANISE", 
+        "details": {
+            "image": {
+                "image1": "../image"
+            },
+            "one": "Full-stack project",
+             "two":"Implement user login, Admin panel, Dashboard etc.",
+             "three": "Responsive homepage.",
+             "Technologies": "Tailwind, DaisyUi , ReactHookForm, React js, Firebase for authentication and hosting, MongoDB, render server hosting site"
+           },
+       " descripting": "This is a Spice Warehouse website.This is a Full-stack project", 
+        "href":"https://spice-warehouse.firebaseapp.com/"
+},
+    {"id": 3, 
+        "img": "image3", 
+        "heading": "DENTIST", 
+        "details": {
+            "one": "Full-stack project",
+             "two":"Implement user login, Admin panel, Dashboard etc.",
+             "three": "Responsive homepage.",
+             "Technologies": "Tailwind, DaisyUi , ReactHookForm, React js, Firebase for authentication and hosting, MongoDB, render server hosting site"
+           },
+       " descripting": "This is a Teeth Removal Website.Just Front-End intigration", 
+        "href": "https://assignment-10-9be48.web.app/"
+    },
+    {"id": 4, 
+        "img": "image4", 
+        "heading": "Cat Food Review",
+        "details": {
+            "one": "Full-stack project",
+             "two":"Implement user login, Admin panel, Dashboard etc.",
+             "three": "Responsive homepage.",
+             "Technologies": "Tailwind, DaisyUi , ReactHookForm, React js, Firebase for authentication and hosting, MongoDB, render server hosting site"
+           }, 
+       " descripting": "This is a Product Review Website Just Front-End intigration", 
+        "href": "https://elegant-melba-17c1b9.netlify.app/"
+    }
+]
